@@ -52,12 +52,12 @@ findMostCommonItem(fruits)
 // Hash map (hash table, a hash)allows us to use an object in js - it is a data structure. It is used to count values or keep track of them. It is an object with key value pairs. Normally are numbers or booleans or sometimes just true. (counting up).
 
 // Hash maps are very efficient:
-{apple: 1, banana: 3, pear: 3, lime: 1, lemon: 1}
-apple: 1
-banana: 3
-lemon: 1
-lime: 1
-pear: 3
+// {apple: 1, banana: 3, pear: 3, lime: 1, lemon: 1}
+// apple: 1
+// banana: 3
+// lemon: 1
+// lime: 1
+// pear: 3
 
 // Any coding language can implement a hash map, in js we use the {} (or object) 
 
